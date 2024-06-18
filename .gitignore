@@ -1,5 +1,8 @@
-# Compiled class file
-*.class
+# Target Directory
+target/
+
+# VS Code setup
+.vscode
 
 # Log file
 *.log
